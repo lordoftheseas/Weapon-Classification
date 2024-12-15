@@ -1,0 +1,101 @@
+filename,label
+ar-0.jpg,Assault Rifle
+ar-1.jpg,Assault Rifle
+ar-10.jpg,Assault Rifle
+ar-2.jpg,Assault Rifle
+ar-3.jpg,Assault Rifle
+ar-4.jpg,Assault Rifle
+ar-5.jpg,Assault Rifle
+ar-6.jpg,Assault Rifle
+ar-7.jpg,Assault Rifle
+ar-8.jpg,Assault Rifle
+ar-9.jpg,Assault Rifle
+Bazooka-0.jpg,Bazooka
+Bazooka-1.jpg,Bazooka
+Bazooka-10.jpg,Bazooka
+Bazooka-2.jpg,Bazooka
+Bazooka-3.jpg,Bazooka
+Bazooka-4.jpg,Bazooka
+Bazooka-5.jpg,Bazooka
+Bazooka-6.jpg,Bazooka
+Bazooka-7.jpg,Bazooka
+Bazooka-8.jpg,Bazooka
+Bazooka-9.jpg,Bazooka
+handgun-0.jpg,handgun
+handgun-1.jpg,handgun
+handgun-10.jpg,handgun
+handgun-2.jpg,handgun
+handgun-3.jpg,handgun
+handgun-4.jpg,handgun
+handgun-5.jpg,handgun
+handgun-6.jpg,handgun
+handgun-7.jpg,handgun
+handgun-8.jpg,handgun
+handgun-9.jpg,handgun
+knife-0.jpg,knife
+knife-1.jpg,knife
+knife-10.jpg,knife
+knife-2.jpg,knife
+knife-3.jpg,knife
+knife-4.jpg,knife
+knife-5.jpg,knife
+knife-6.jpg,knife
+knife-7.jpg,knife
+knife-8.jpg,knife
+knife-9.jpg,knife
+Launcher-0.jpg,Grenade Launcher
+Launcher-1.jpg,Grenade Launcher
+Launcher-10.jpg,Grenade Launcher
+Launcher-2.jpg,Grenade Launcher
+Launcher-3.jpg,Grenade Launcher
+Launcher-4.jpg,Grenade Launcher
+Launcher-5.jpg,Grenade Launcher
+Launcher-6.jpg,Grenade Launcher
+Launcher-7.jpg,Grenade Launcher
+Launcher-8.jpg,Grenade Launcher
+Launcher-9.jpg,Grenade Launcher
+Shotgun-0.jpg,Shotgun
+Shotgun-1.jpg,Shotgun
+Shotgun-10.jpg,Shotgun
+Shotgun-2.jpg,Shotgun
+Shotgun-3.jpg,Shotgun
+Shotgun-4.jpg,Shotgun
+Shotgun-5.jpg,Shotgun
+Shotgun-6.jpg,Shotgun
+Shotgun-7.jpg,Shotgun
+Shotgun-8.jpg,Shotgun
+Shotgun-9.jpg,Shotgun
+SMG-0.jpg,SMG
+SMG-1.jpg,SMG
+SMG-10.jpg,SMG
+SMG-11.jpg,SMG
+SMG-2.jpg,SMG
+SMG-3.jpg,SMG
+SMG-4.jpg,SMG
+SMG-5.jpg,SMG
+SMG-6.jpg,SMG
+SMG-7.jpg,SMG
+SMG-8.jpg,SMG
+SMG-9.jpg,SMG
+Sniper-0.jpg,Sniper
+Sniper-1.jpg,Sniper
+Sniper-10.jpg,Sniper
+Sniper-2.jpg,Sniper
+Sniper-3.jpg,Sniper
+Sniper-4.jpg,Sniper
+Sniper-5.jpg,Sniper
+Sniper-6.jpg,Sniper
+Sniper-7.jpg,Sniper
+Sniper-8.jpg,Sniper
+Sniper-9.jpg,Sniper
+Sword-0.jpg,Sword
+Sword-1.jpg,Sword
+Sword-10.jpg,Sword
+Sword-2.jpg,Sword
+Sword-3.jpg,Sword
+Sword-4.jpg,Sword
+Sword-5.jpg,Sword
+Sword-6.jpg,Sword
+Sword-7.jpg,Sword
+Sword-8.jpg,Sword
+Sword-9.jpg,Sword
