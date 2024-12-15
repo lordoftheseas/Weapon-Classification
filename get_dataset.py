@@ -2,9 +2,8 @@
 # {'Automatic Rifle': 0, 'Bazooka': 1, 'Handgun': 2, 'Knife': 3, 'Shotgun': 4, 'SMG': 5, 'Sniper': 6, 'Sword': 7}
 import os
 import random
-
 class GeneratingDatasetLabels:
-    def get_100_random_images(self):
+    def get_100_images(self):
         # Directory containing the images
         image_dir = "test"
 
@@ -41,7 +40,7 @@ class GeneratingDatasetLabels:
 # Example usage
 if __name__ == "__main__":
     generator = GeneratingDatasetLabels()
-    all_images = generator.get_100_random_images()
+    all_images = generator.get_100_images()
 
 # Function to rename multiple files
 # def main():
