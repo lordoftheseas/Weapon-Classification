@@ -1,5 +1,5 @@
 # Weapon Class Map: 
-# {'Automatic Rifle': 0, 'Bazooka': 1, 'Grenade Launcher': 2, 'Handgun': 3, 'Knife': 4, 'Shotgun': 5, 'SMG': 6, 'Sniper': 7, 'Sword': 8}
+# {'Automatic Rifle': 0, 'Bazooka': 1, 'Handgun': 2, 'Knife': 3, 'Shotgun': 4, 'SMG': 5, 'Sniper': 6, 'Sword': 7}
 
 import os
 import random
@@ -29,9 +29,28 @@ class GeneratingDatasetLabels:
         # Return the sampled images
         return sampled_images
 
+
 # Example usage
 if __name__ == "__main__":
     generator = GeneratingDatasetLabels()
     sampled_images = generator.get_100_random_images()
 
+# Function to rename multiple files
+# def main():
+
+# 	folder = "test/Hand-gun"
+# 	for count, filename in enumerate(os.listdir(folder)):
+# 		dst = f"Handgun-{str(count)}.jpg"
+# 		src =f"{folder}/{filename}" # foldername/filename, if .py file is outside folder
+# 		dst =f"{folder}/{dst}"
+		
+# 		# rename() function will
+# 		# rename all the files
+# 		os.rename(src, dst)
+
+# # Driver Code
+# if __name__ == '__main__':
+	
+# 	# Calling main() function
+# 	main()
 
