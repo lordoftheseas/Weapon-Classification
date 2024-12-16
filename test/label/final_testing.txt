@@ -1,15 +1,15 @@
 filename,label
-Automatic_Rifle_0.jpeg,Automatic Rifle
-Automatic_Rifle_1.jpeg,Automatic Rifle
-Automatic_Rifle_10.jpeg,Automatic Rifle
-Automatic_Rifle_2.jpeg,Automatic Rifle
-Automatic_Rifle_3.jpeg,Automatic Rifle
-Automatic_Rifle_4.jpeg,Automatic Rifle
-Automatic_Rifle_5.jpeg,Automatic Rifle
-Automatic_Rifle_6.jpeg,Automatic Rifle
-Automatic_Rifle_7.jpeg,Automatic Rifle
-Automatic_Rifle_8.jpeg,Automatic Rifle
-Automatic_Rifle_9.jpeg,Automatic Rifle
+Automatic Rifle_0.jpeg,Automatic Rifle
+Automatic Rifle_1.jpeg,Automatic Rifle
+Automatic Rifle_10.jpeg,Automatic Rifle
+Automatic Rifle_2.jpeg,Automatic Rifle
+Automatic Rifle_3.jpeg,Automatic Rifle
+Automatic Rifle_4.jpeg,Automatic Rifle
+Automatic Rifle_5.jpeg,Automatic Rifle
+Automatic Rifle_6.jpeg,Automatic Rifle
+Automatic Rifle_7.jpeg,Automatic Rifle
+Automatic Rifle_8.jpeg,Automatic Rifle
+Automatic Rifle_9.jpeg,Automatic Rifle
 Bazooka_0.jpeg,Bazooka
 Bazooka_1.jpeg,Bazooka
 Bazooka_10.jpeg,Bazooka
@@ -21,17 +21,17 @@ Bazooka_6.jpeg,Bazooka
 Bazooka_7.jpeg,Bazooka
 Bazooka_8.jpeg,Bazooka
 Bazooka_9.jpeg,Bazooka
-Grenade_Launcher_0.jpeg,Grenade Launcher
-Grenade_Launcher_1.jpeg,Grenade Launcher
-Grenade_Launcher_10.jpeg,Grenade Launcher
-Grenade_Launcher_2.jpeg,Grenade Launcher
-Grenade_Launcher_3.jpeg,Grenade Launcher
-Grenade_Launcher_4.jpeg,Grenade Launcher
-Grenade_Launcher_5.jpeg,Grenade Launcher
-Grenade_Launcher_6.jpeg,Grenade Launcher
-Grenade_Launcher_7.jpeg,Grenade Launcher
-Grenade_Launcher_8.jpeg,Grenade Launcher
-Grenade_Launcher_9.jpeg,Grenade Launcher
+Grenade Launcher_0.jpeg,Grenade Launcher
+Grenade Launcher_1.jpeg,Grenade Launcher
+Grenade Launcher_10.jpeg,Grenade Launcher
+Grenade Launcher_2.jpeg,Grenade Launcher
+Grenade Launcher_3.jpeg,Grenade Launcher
+Grenade Launcher_4.jpeg,Grenade Launcher
+Grenade Launcher_5.jpeg,Grenade Launcher
+Grenade Launcher_6.jpeg,Grenade Launcher
+Grenade Launcher_7.jpeg,Grenade Launcher
+Grenade Launcher_8.jpeg,Grenade Launcher
+Grenade Launcher_9.jpeg,Grenade Launcher
 Handgun_0.jpeg,Handgun
 Handgun_1.jpeg,Handgun
 Handgun_10.jpeg,Handgun
