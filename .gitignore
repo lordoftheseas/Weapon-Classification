@@ -8,8 +8,6 @@
 *.suo
 *.user
 *.userosscache
-Dataset/random erased augmented data/
-Dataset/transformed augmented data/
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
