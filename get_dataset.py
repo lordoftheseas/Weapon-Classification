@@ -5,7 +5,7 @@ import random
 class GeneratingDatasetLabels:
     def get_100_images(self):
         # Directory containing the images
-        image_dir = "test"
+        image_dir = "test/Test"
 
         # List to store image filenames
         all_images = []
@@ -22,10 +22,10 @@ class GeneratingDatasetLabels:
         header = ["filename","label"]
         data = []
         for image in all_images:
-            label = image.split('-')[0]  # Get the label by splitting the filename
-            if label == "ar":
+            label = image.split('_')[0]  # Get the label by splitting the filename
+            if label == "Assault":
                 label = "Assault Rifle"
-            elif label == "Launcher":
+            elif label == "Grenade":
                 label = "Grenade Launcher"
             data.append([image, label])  # Append the filename and label as a list
         
@@ -45,9 +45,9 @@ if __name__ == "__main__":
 # Function to rename multiple files
 # def main():
 
-# 	folder = "test/AR"
+# 	folder = "test/Sword"
 # 	for count, filename in enumerate(os.listdir(folder)):
-# 		dst = f"ar-{str(count)}.jpg"
+# 		dst = f"Sword_{str(count)}.jpeg"
 # 		src =f"{folder}/{filename}" # foldername/filename, if .py file is outside folder
 # 		dst =f"{folder}/{dst}"
 		
